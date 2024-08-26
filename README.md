@@ -3,10 +3,9 @@
 
 This report details the project work titled **"Refactoring and Publishing EduAid"** undertaken during **Google Summer of Code 2024** under the mentorship of **AOSSIE**. My name is Krishna Madhwani, and as a Computer Science and Engineering student at IIT BHU, I was fortunate to have this incredible opportunity to contribute to **EduAid** during GSoC'24. During my time in GSoC 2024, I focused on significantly advancing the EduAid Chrome extension by incorporating new features and refining its existing functionalities. My primary goal was to enhance the platform’s versatility and usability for both educators and students.
 
-<div style="display: flex; align-items: center;">
-  <img src="https://aossie.org/logo1.png" alt="Alt text" style="width: 300px; height: auto; margin-right: 20px;" />
-  <img src="https://numfocus.org/wp-content/uploads/2017/11/gsoc2017.png" alt="Alt text" style="width: 600px; height: 300px;" />
-</div>
+<p align="center">
+  <img src="https://aossie.org/logo1.png" alt="Alt text" style="width: 400px; height: auto;" />
+</p>
 
 ## Overview
 
